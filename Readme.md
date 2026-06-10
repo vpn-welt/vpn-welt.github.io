@@ -557,7 +557,7 @@ StrongVPN enforces a clear **zero-logging** policy — they do not track or stor
 
 #### Surfshark
 Also in the **British Virgin Islands** (privacy-friendly, no retention laws).  
-Surfshark maintains a rock-solid **no-logs** policy — independently audited multiple times (latest by Deloitte in 2026 confirming they don't monitor or store online activity). They only keep minimal account data (email + billing) and delete connection timestamps after 15 minutes. Quarterly transparency reports show zero useful data handed over in legal requests. Great balance of privacy + affordability.
+Surfshark setzt auf eine solide No-Logs-Politik, unabhängige Audits und nur minimale Kontodaten wie E-Mail und Abrechnung. Das macht den Anbieter besonders interessant, wenn viele Geräte und ein günstiger Langzeitpreis wichtig sind.
 
 | Feature                          | ExpressVPN                              | StrongVPN                           | Surfshark                               |
 |----------------------------------|-----------------------------------------|-------------------------------------|-----------------------------------------|
