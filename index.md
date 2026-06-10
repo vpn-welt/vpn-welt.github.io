@@ -53,6 +53,26 @@ Der günstigste Monatspreis steht fast immer in langen Vertragen. Prüfe vor dem
 | [Surfshark](https://surfy-chinaz.com/de/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | Unbegrenzte Geräte | Familien, WGs, mehrere Geräte | Bestpreis meist nur bei langer Laufzeit. |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) | Schnell testen | Kurzer Kompatibilitätscheck | Weniger bekannt, daher im eigenen Setup testen. |
 
+## Plattformen und Szenarien vor dem Kauf testen
+
+In Deutschland geht es selten nur um “irgendein VPN”. Entscheidend sind Mediatheken, Sport, Reisen, öffentliches WLAN, Datenschutz und ein klarer Erstattungszeitraum.
+
+| Szenario | Plattformen / Nutzung | Erste Wahl zum Testen |
+|---|---|---|
+| Deutsche Mediatheken im Ausland | ARD, ZDF, Joyn, RTL+, MagentaTV | [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-home&data2=local_platforms) / [ExpressVPN](https://go.expressvpn.com/c/3828265/1509266/16063) |
+| Sport und Live-TV | DAZN, Sky/WOW, RTL+, internationale Streams | ExpressVPN für Stabilität; StrongVPN für Preis/Leistung |
+| Internationale Kataloge | Netflix, Disney+, Prime Video, Apple TV+ | ExpressVPN / Surfshark |
+| Haushalt mit vielen Geräten | Handy, Laptop, Tablet, Fire TV, Smart TV | [Surfshark](https://surfy-chinaz.com/de/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) |
+| Kurzer Kompatibilitätstest | eigenes Netz, eigenes Gerät, eigener Anbieter | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) |
+
+### Testplan während der Erstattungsfrist
+
+1. Teste zuhause, per Mobilfunk und in einem öffentlichen WLAN.
+2. Öffne deine wichtigsten Mediatheken und Sport-Apps.
+3. Wechsle Server, wenn ein Streaming-Dienst blockiert.
+4. Prüfe 15-30 Minuten Wiedergabe, nicht nur den Login.
+5. Wenn der Hauptzweck scheitert, innerhalb der Frist erstatten lassen.
+
 ## Tagliche VPN-Speedtests
 
 VPN-Geschwindigkeit hängt von Standort, Tageszeit, Protokoll, Serverlast und deinem eigenen Anschluss ab. Ein einzelner Test ist kaum aussagekräftig. Wir vergleichen deshalb wiederholte Messungen und beobachten 7-, 14-, 30- und 90-Tage-Trends.
@@ -615,7 +635,7 @@ Nutze diese Liste als Warnsignal und prüfe vor dem Kauf aktuelle Tests, Support
 In einer Welt mit immer strengeren Netzwerksperren zählen nur diese bewährten Faktoren – die wirklich für langfristige Stabilität, Geschwindigkeit und Datenschutz sorgen.
 
 #### 1. Nur stabile, gut finanzierte Marken
-Sperren werden intelligenter und aggressiver – alte Protokolle wie PPTP werden sofort erkannt und blockiert. Einmal geflaggte IPs sind oft für immer tot – gleiches gilt für selbst gehostete Lösungen wie SSR.  
+Sperren werden intelligenter und aggressiver – alte Protokolle wie PPTP werden sofort erkannt und blockiert. Einmal geflaggte IPs sind oft für immer tot – gleiches gilt für überlastete Server oder bereits markierte Shared-IPs.  
 Nur große, etablierte Marken mit tiefen Taschen und dedizierten Engineering-Teams können schnell auf Änderungen reagieren, Server erneuern und zuverlässige Verbindungen halten. Deshalb bleiben wir bei bewährten Playern.
 
 #### 2. Persönliche Real-World-Tests & tägliche Nutzung
@@ -635,7 +655,7 @@ Das ist keine Theorie – das ist battle-tested. Nutze unsere Standards, Ranking
    Hinweis: Du kannst auf viel mehr Geräten installieren – das Limit gilt nur für aktive simultane Nutzung.
 
 3. **Split Tunneling**  
-   Ermöglicht, bestimmte Apps über VPN zu routen, andere über normale Verbindung. Beispiel: Lokales Streaming (iQiyi, Youku) schnell halten, während Browser zu IEEE, Google oder Netflix über VPN geht. Riesiger Speed-Boost – essenziell gegen Verlangsamungen.
+   Ermöglicht, bestimmte Apps über VPN zu routen, andere über normale Verbindung. Beispiel: ARD/ZDF oder lokale Dienste ohne VPN nutzen, während Netflix, Disney+ oder DAZN über VPN laufen. Riesiger Speed-Boost – essenziell gegen Verlangsamungen.
 
 4. **Unbegrenzte Bandbreite / Keine Data Caps**  
    Bandbreite = wie viel Daten du pushen kannst (kritisch für HD/4K-Streaming). Unbegrenzt bedeutet keine Drosselung durch Shared-User oder Tageslimits (z. B. 10 GB/Tag = nur 2–3 HD-Filme). Alle unsere Picks bieten **echt unbegrenzt**.
@@ -1115,27 +1135,18 @@ Fazit: Mit gutem bezahltem VPN und smarten Choices ist Speed-Verlust minimal –
 
 Du hast jetzt fortgeschrittene Tipps, um das Maximum aus deinem VPN rauszuholen. Wähle das richtige Setup für deine Bedürfnisse, teste es und genieße sicheres Surfen.
 
-#### Unterschiede zwischen „Access Software“ & echten VPNs
-<a name="differences-between-access-software-and-vpns"></a>
+#### Wenn Streaming-Dienste ein VPN blockieren
 
-Begriffe wie „Access Software“ und „VPN“ können beide in eingeschränkten Netzwerken helfen, dienen aber unterschiedlichen Zwecken und haben klare Unterschiede.
+Streaming-Anbieter blockieren regelmäßig einzelne VPN-IP-Adressen. Ein Fehler bedeutet nicht automatisch, dass der Anbieter unbrauchbar ist.
 
-##### 1. Access Software (z. B. Shadowsocks, Lantern, V2Ray)
-Spezialisierte Tools, primär gebaut, um Zensur in stark restriktiven Netzen zu umgehen. Sie tarnen Traffic als normales HTTPS/Web-Browsing – schwerer zu erkennen/blocken als traditionelle VPNs.  
-- Vorteile: Oft leichter, schneller in zensierten Umgebungen, stealthiger gegen Deep Packet Inspection.  
-- Nachteile: Meist keine volle Verschlüsselung aller Traffic, begrenzte Privatsphäre (kann loggen oder Metadaten leaken), kein echtes „privates Netzwerk“.
+- Anderen Server im selben Land testen.
+- Cookies löschen oder privaten Browser nutzen.
+- DNS/WebRTC-Leaks prüfen.
+- Bei mobilen Apps Standortfreigabe kontrollieren.
+- Während der typischen Nutzungszeit testen, etwa abends oder am Wochenende.
 
-##### 2. VPN (Virtual Private Network)
-Vollwertige Lösung, die einen verschlüsselten Tunnel für **allen** Traffic deines Geräts erstellt, IP versteckt, Daten End-to-End verschlüsselt und vor Snooping auf öffentlichem Wi-Fi oder durch ISPs schützt.  
-- Vorteile: Umfassende Privatsphäre/Sicherheit, No-Logs-Policies, Kill Switch, Multi-Device-Support, super für Streaming/P2P.  
-- Nachteile: Kann in extremer Zensur leichter erkannt/blockiert werden (obwohl Obfuscated-Modi helfen), leichter Speed-Overhead durch Verschlüsselung.
+Für deutsche Nutzer zählt am Ende, ob Mediathek, Sport, Datenschutz und Geräte-Support im eigenen Setup funktionieren.
 
-**Kurz-Zusammenfassung**  
-- Brauchst Stealth gegen harte Firewalls? Access-Tools wie Shadowsocks glänzen.  
-- Willst volle Verschlüsselung, Privatsphäre und Vielseitigkeit (Streaming, Torrenting, Public-Wi-Fi-Sicherheit)? Premium-VPN wählen.  
-Die meisten Nutzer profitieren am meisten von einem guten bezahlten VPN – deckt 90 %+ der Bedürfnisse ab, ohne die Limitationen von Nischen-Access-Tools.
-
-<a name="advanced-vpn-uses-compatibility"></a>
 ## Fortgeschrittene VPN-Nutzung & Kompatibilität
 
 #### Warum & Wie regelmäßig VPN-Anbieter rotieren für extra Sicherheit
@@ -1214,30 +1225,16 @@ Disney+ Inhalte variieren enorm je Region (z. B. Marvel/Star Wars-Exklusives unt
 Diese vier liefern 2026 konstant in unseren Tests – ExpressVPN führt bei Premium-Zuverlässigkeit, Surfshark bei Value/Unbegrenzt, StrongVPN bei Budget-International und FlowVPN bei Apple TV-Innovation. Wähle nach Geräten und Prioritäten – und genieße volle globale Kataloge ohne Grenzen.
 
 <a name="introduction-to-common-vpn-protocols"></a>
-## Einführung in gängige VPN-Protokolle & Tools
+## VPN-Protokolle für normale Nutzer
 
-Bei Online-Sicherheit und eingeschränkten Netzwerken gibt es viele Tools jenseits simpler VPNs. Zwei beliebte Kategorien: volle VPNs und proxy-basierte Lösungen wie SSR. Beide schützen Traffic, funktionieren aber unterschiedlich und passen zu verschiedenen Bedürfnissen.
+Starte mit der automatischen Einstellung der App. Wechsle das Protokoll nur, wenn Geschwindigkeit, Stabilität oder ein bestimmtes WLAN Probleme machen.
 
-Ein echter **VPN** (Virtual Private Network) verschlüsselt **allen** Traffic deines Geräts End-to-End zwischen Gerät und VPN-Server – extrem schwer für ISPs, Behörden oder Hacker zu intercepten oder zu lesen. **SSR** (ShadowsocksR) ist ein Proxy-Tool, das Traffic durch verschlüsselte Tunnel weiterleitet, um Detection zu umgehen – leichter und oft stealthiger gegen tiefe Zensur, verschlüsselt aber typisch nicht alles auf deinem Gerät wie ein voller VPN.
-
-**Heterogenes Computing (Multi-Tool-Setups)**  
-Heute kombinieren viele Advanced-User Tools – VPN + SSR + V2Ray + Trojan – bekannt als **heterogenes Computing**. Das verteilt Verschlüsselungs-Last, nutzt unterschiedliche Stärken (Speed von einem, Stealth von anderem) und bietet Redundanz bei Block eines Tools. Mächtig für High-Traffic oder stark restriktive Umgebungen, aber komplexer.
-
-Für die meisten Nutzer in eingeschränkten Netzwerken:
-- Tools wie V2Ray, Shadowsocks oder Trojan super für selbst gehostete Server, brauchen aber technisches Setup und IPs werden schnell blockiert.
-- Shadowsocks/SSR user-freundlich und open-source, aber öffentlicher Code macht sie mit der Zeit leichter für Filter zu erkennen.
-- Eine 2019 Beijing-Universitäts-Studie zu V2Ray-Traffic-Detection zeigte: Fortschrittliche Censoren können Patterns identifizieren – Wirksamkeit sinkt bei Filter-Updates.
-
-**Fazit**: Für Einfachheit, Zuverlässigkeit und breiten Schutz ist ein Premium-bezahlter VPN immer noch die einfachste und direkteste Wahl für Non-Experten. Backups (SSR/V2Ray) für harte Tage bereithalten.
-
-#### SSR (ShadowsocksR)
-ShadowsocksR (SSR) ist ein Proxy-Tool für Filter und eingeschränkte Netzwerke. Es leitet Traffic durch verschlüsselte Tunnel, die wie normales HTTPS aussehen – schwer für ISPs oder Behörden zu überwachen. Als erweiterter Fork von original Shadowsocks gilt es als sicherer und effizienter – beliebt bei privacy-fokussierten Nutzern in restriktiven Regionen.
-
-#### V2Ray
-V2Ray ist ein mächtiges open-source Routing-Tool für sichere Traffic-Weiterleitung und Zensur-Umgehung. Unterstützt Windows, macOS, Linux, Android plus Chrome/Firefox-Extensions. Protokolle: VMess, Shadowsocks, Socks, HTTP/Socks, VLESS mit obfsproxy-Obfuscation zum Verstecken von Traffic. Handhabt UDP/TCP/HTTP/Socks5, integriert Web-Server für statische Files und erstellt verschlüsselte Tunnel. Hochgradig anpassbar – super für Advanced-User.
-
-#### Trojan
-Ursprünglich Malware-Name, wurde Trojan als legitimes Security-Tool für verschlüsselte Traffic-Routing und Umgehung repurposed. Es mimt HTTPS-Traffic für Stealth, braucht aber sorgfältige Config, um Risiken zu vermeiden und Privatsphäre zu maximieren. Best für User, die Setup verstehen.
+| Protokoll | Geeignet für | Hinweis |
+|---|---|---|
+| WireGuard / Lightway | Streaming, Speed, Mobilgeräte | meist die beste erste Wahl |
+| OpenVPN UDP | gute Mischung aus Speed und Stabilität | solide für Heimnetz und Alltag |
+| OpenVPN TCP | Hotel, Uni, Büro, restriktives WLAN | langsamer, aber oft robuster |
+| IKEv2 | Smartphone und Netzwerkwechsel | praktisch auf Reisen |
 
 ### Unterschiede & Use Cases: VPN vs. Tor
 <a name="differences-and-use-cases-vpn-vs-tor"></a>
@@ -1330,27 +1327,18 @@ Fazit: Mit gutem bezahltem VPN und smarten Choices ist Speed-Verlust minimal –
 
 Du hast jetzt fortgeschrittene Tipps, um das Maximum aus deinem VPN rauszuholen. Wähle das richtige Setup für deine Bedürfnisse, teste es und genieße sicheres Surfen.
 
-#### Unterschiede zwischen „Access Software“ & echten VPNs
-<a name="differences-between-access-software-and-vpns"></a>
+#### Wenn Streaming-Dienste ein VPN blockieren
 
-Begriffe wie „Access Software“ und „VPN“ können beide in eingeschränkten Netzwerken helfen, dienen aber unterschiedlichen Zwecken und haben klare Unterschiede.
+Streaming-Anbieter sperren regelmäßig einzelne VPN-IP-Adressen. Ein Fehler bedeutet nicht automatisch, dass der Anbieter unbrauchbar ist.
 
-##### 1. Access Software (z. B. Shadowsocks, Lantern, V2Ray)
-Spezialisierte Tools, primär gebaut, um Zensur in stark restriktiven Netzen zu umgehen. Sie tarnen Traffic als normales HTTPS/Web-Browsing – schwerer zu erkennen/blocken als traditionelle VPNs.  
-- Vorteile: Oft leichter, schneller in zensierten Umgebungen, stealthiger gegen Deep Packet Inspection.  
-- Nachteile: Meist keine volle Verschlüsselung aller Traffic, begrenzte Privatsphäre (kann loggen oder Metadaten leaken), kein echtes „privates Netzwerk“.
+- Anderen Server im selben Land testen.
+- Cookies löschen oder privaten Browser nutzen.
+- DNS/WebRTC-Leaks prüfen.
+- Bei mobilen Apps Standortfreigabe kontrollieren.
+- Während der typischen Nutzungszeit testen, etwa abends oder am Wochenende.
 
-##### 2. VPN (Virtual Private Network)
-Vollwertige Lösung, die einen verschlüsselten Tunnel für **allen** Traffic deines Geräts erstellt, IP versteckt, Daten End-to-End verschlüsselt und vor Snooping auf öffentlichem Wi-Fi oder durch ISPs schützt.  
-- Vorteile: Umfassende Privatsphäre/Sicherheit, No-Logs-Policies, Kill Switch, Multi-Device-Support, super für Streaming/P2P.  
-- Nachteile: Kann in extremer Zensur leichter erkannt/blockiert werden (obwohl Obfuscated-Modi helfen), leichter Speed-Overhead durch Verschlüsselung.
+Für deutsche Nutzer zählt am Ende, ob Mediathek, Sport, Datenschutz und Geräte-Support im eigenen Setup funktionieren.
 
-**Kurz-Zusammenfassung**  
-- Brauchst Stealth gegen harte Firewalls? Access-Tools wie Shadowsocks glänzen.  
-- Willst volle Verschlüsselung, Privatsphäre und Vielseitigkeit (Streaming, Torrenting, Public-Wi-Fi-Sicherheit)? Premium-VPN wählen.  
-Die meisten Nutzer profitieren am meisten von einem guten bezahlten VPN – deckt 90 %+ der Bedürfnisse ab, ohne die Limitationen von Nischen-Access-Tools.
-
-<a name="advanced-vpn-uses-compatibility"></a>
 ## Fortgeschrittene VPN-Nutzung & Kompatibilität
 
 #### Warum & Wie regelmäßig VPN-Anbieter rotieren für extra Sicherheit
