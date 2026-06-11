@@ -75,9 +75,9 @@ In Deutschland geht es selten nur um “irgendein VPN”. Entscheidend sind Medi
 
 ## WM 2026: VPN für Reisen, Streaming und ExpressVPN Ticket-Gewinnspiel
 
-![Fußballstadion bei Nacht](https://upload.wikimedia.org/wikipedia/commons/1/1d/Worldcup_2010_Soccer_Stadium_at_night_-_panoramio.jpg)
+![Fußballstadion bei Nacht](./image/worldcup/world-cup-2026-stadium.png)
 
-*Photo: ngrund, CC BY 3.0, via Wikimedia Commons.*
+*Illustration created for this site.*
 
 Die FIFA World Cup 2026 läuft vom 11. Juni bis 19. Juli in den USA, Kanada und Mexiko. Für deutsche Fans geht es nicht nur um Streaming, sondern auch um Reisen, Hotel-WLAN, Flughafen-WLAN, Ticketkonten, Banking, E-Mail und öffentliche Netzwerke.
 
