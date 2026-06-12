@@ -353,7 +353,7 @@ Sicherheit top: AES-256-GCM-Verschlüsselung, WireGuard-Support (superschnell), 
 
 Surfshark glänzt beim Entsperren: Netflix in ~20 Bibliotheken (US, UK, Japan, Frankreich, Italien, Australien usw.), Amazon Prime Video, Disney+, Hulu & mehr. Ideal für Heavy-Streaming, Torrenting und Online-Gaming.
 
-**Pro-Tipp für strenge Regionen (z. B. China):** Surfshark funktioniert 2026 weiterhin sehr zuverlässig dank NoBorders-Modus (automatische Obfuscation, aktiviert sich in Sekunden bei Great-Firewall-Erkennung) – lade die App **vor der Reise** und nutze die 30-Tage-Garantie zum risikofreien Testen.
+**Pro-Tipp für Reisen und restriktive Netzwerke:** Surfsharks NoBorders-Modus kann helfen, wenn Hotel-, Uni- oder Arbeitsplatz-WLAN Verbindungen einschränkt. Lade die App vor der Reise und teste sie innerhalb der Erstattungsfrist.
 
 #### Surfshark – Die wichtigsten Features
 
@@ -617,7 +617,7 @@ Surfshark setzt auf eine solide No-Logs-Politik, unabhängige Audits und nur min
 
 ### VPNs, die du meiden solltest – Nicht empfohlene Anbieter (Stand Januar 2026)
 
-Diese Liste basiert auf realen Tests, Nutzerberichten und aktuellen Statusberichten 2026. Gründe: Häufige Blocks in restriktiven Regionen (z. B. China/strenge Netzwerkfilter), unzuverlässige Performance, überteuert, Datenschutzrisiken (Logging, Datenverkauf), Free-VPN-Gefahren (Malware, Ads, Tracking), Aufgabe oder Instabilität.
+Diese Liste basiert auf realen Tests, Nutzerberichten und aktuellen Statusberichten 2026. Gründe: Häufige Blocks in restriktiven Netzwerken, unzuverlässige Performance, überteuerte Tarife, Datenschutzrisiken (Logging, Datenverkauf), Free-VPN-Gefahren (Malware, Ads, Tracking), Aufgabe oder Instabilität.
 
 Vermeide sie unbedingt – du sparst Geld, Nerven und schützt deine Daten!
 
@@ -635,7 +635,7 @@ Vermeide sie unbedingt – du sparst Geld, Nerven und schützt deine Daten!
 | Turbo VPN                         | Free-VPN – Ads, Tracking, Datenschutz-Risiken              |
 | UrbanVPN                          | Free-VPN – massive Privacy- & Speed-Probleme               |
 | VyprVPN                           | Häufige Blocks, abnehmende Zuverlässigkeit in restriktiven Gebieten |
-| Windscribe                        | Free-Tier limitiert; bezahlte Version inkonsistent in China |
+| Windscribe                        | Free-Tier limitiert; bezahlte Version je nach Streaming- und Reisenutzung inkonsistent |
 | Hola VPN                          | Bekannt für Bandbreiten-Diebstahl & Verkauf an Dritte      |
 | Alle anderen Free-VPNs (z. B. VPN Proxy Master, QuickVPN etc.) | Hohes Risiko: Datenverkauf, Malware, keine echte Verschlüsselung – 88% leaken identifizierbare Daten! |
 
@@ -1568,7 +1568,7 @@ Aktuelle Quantencomputer (2026) sind weit davon entfernt, 2048-Bit-RSA zu knacke
 
 #### Post-Quantum-Kryptografie (PQC) & Quantum-Crypto
 - **Post-Quantum-Algorithmen**: NIST-standardisiert 2024–2026 (Kyber, Dilithium, Falcon, SPHINCS+) – lattice-based, hash-based, code-based Crypto, resistent gegen Quantenattacken. Viele VPNs migrieren bereits.
-- **Quantum Key Distribution (QKD)**: Nutzt Quantenprinzipien (Heisenbergsche Unschärfe, Verschränkung), um Abhören zu detektieren. Theoretisch unknackbar – Schlüsselverteilung via Photonen über Glasfaser/Satellit. Bereits in China/EU-Pilotnetzen; zukünftige VPNs könnten QKD integrieren.
+- **Quantum Key Distribution (QKD)**: Nutzt Quantenprinzipien (Heisenbergsche Unschärfe, Verschränkung), um Abhören zu detektieren. Theoretisch unknackbar – Schlüsselverteilung via Photonen über Glasfaser/Satellit. Bereits in Asien/EU-Pilotnetzen; zukünftige VPNs könnten QKD integrieren.
 
 **Ausblick**: Quantenbedrohungen kommen – aber auch Abwehr. Premium-VPNs adoptieren bereits PQC-Hybride. Das Rennen läuft.
 
