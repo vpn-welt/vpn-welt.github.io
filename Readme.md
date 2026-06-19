@@ -93,7 +93,12 @@ Vor dem ersten Spiel: VPN installieren, Streaming-App öffnen, DNS/WebRTC prüfe
 
 ## Hinweis zu Preisen und lokaler Währung
 
-VPN-Preise ändern sich je nach Land, Steuer, Währung, Laufzeit und Kampagne. Wenn kein lokaler Preis angezeigt wird, nutze USD nur als Orientierung und prüfe den Gesamtbetrag im Checkout. Wichtig sind Gesamtkosten, Verlängerung, Erstattungsfrist und Geräte-Limit.
+VPN-Preise ändern sich je nach Land, Steuer, Währung, Laufzeit und Kampagne. Für Deutschland/Österreich nutzen wir Euro plus USD-Gegenwert als Orientierung. Richtkurs: 1 USD ≈ 0,87 EUR (19. Juni 2026).
+
+- StrongVPN Jahresangebot: ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. 42–47 EUR/Jahr (48–54 USD/Jahr), vor MwSt.
+- Surfshark lange Laufzeit: ca. 1,73–2,01 EUR/Monat (1,99–2,30 USD/Monat), aber Add-ons, MwSt. und Verlängerung prüfen.
+- ExpressVPN ist Premium und variiert nach Tarif/Kampagne. Wenn der Checkout 3,49 USD/Monat zeigt, entspricht das ca. 3,04 EUR/Monat; der tatsächliche Europreis steht im Checkout.
+- FlowVPN: Trial und bezahlten Plan im Checkout prüfen; USD-Anzeigen nur als Euro-Orientierung umrechnen.
 
 ## Tagliche VPN-Speedtests
 
@@ -263,7 +268,7 @@ Mit diesen Kriterien decken unsere vier Hauptoptionen unterschiedliche Profile a
 
 <img src="./image/speed_test/strong_main.png" alt="StrongVPN Speed Test" width="400"/>
 
-**StrongVPN** ist ein aufstrebender VPN-Anbieter mit Servern in Europa und Amerika – zu günstigeren Preisen als viele Premium-Marken. Der 12-Monats-Plan liegt bei Aktionen oft um ca. 3,97 USD/Monat; Euro-Preis, MwSt. und Gesamtbetrag bitte im Checkout prüfen. StrongVPN unterstützt internationale Zahlungen, und das Engineering-Team aktualisiert Server regelmäßig.
+**StrongVPN** ist ein aufstrebender VPN-Anbieter mit Servern in Europa und Amerika – zu günstigeren Preisen als viele Premium-Marken. Der 12-Monats-Plan liegt bei Aktionen oft um ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. 42–47 EUR/Jahr (48–54 USD/Jahr) vor MwSt.; Euro-Preis, MwSt. und Gesamtbetrag bitte im Checkout prüfen. StrongVPN unterstützt internationale Zahlungen, und das Engineering-Team aktualisiert Server regelmäßig.
 
 Ideal für den Alltag: YouTube streamen, Facebook scrollen oder Netflix, Hulu, ABC, HBO, Sky Go & Co. freischalten. Saubere, native Apps für Windows, macOS, iOS, Android und Amazon Fire TV – plus einfache Einrichtungs-Guides für Chrome, Router, Fire TV Stick und Kodi.
 
@@ -325,7 +330,7 @@ Auf typischen Heimanschlüssen (100–500 Mbps) merkst du den Unterschied zu den
 - Akzeptiert mehrere Währungen, inkl. Bitcoin
 - Branchenführende Verschlüsselung (AES-256-GCM, Lightway-Protokoll – superschnell & sicher)
 
-**Aktueller Preis-Hinweis**: ExpressVPN zeigt je nach Kampagne, Laufzeit und Tarifstufe unterschiedliche Preise. Prüfe vor dem Kauf Euro-Preis, MwSt., Gesamtkosten, Verlängerung und 30-Tage-Garantie im offiziellen Checkout. Kreditkarten, PayPal, Bitcoin und weitere Methoden sind je nach Region verfügbar.  
+**Aktueller Preis-Hinweis**: ExpressVPN zeigt je nach Kampagne, Laufzeit und Tarifstufe unterschiedliche Preise. Wenn der Checkout 3,49 USD/Monat zeigt, entspricht das ca. 3,04 EUR/Monat; prüfe vor dem Kauf Euro-Preis, MwSt., Gesamtkosten, Verlängerung und Erstattungsfrist im offiziellen Checkout. Kreditkarten, PayPal, Bitcoin und weitere Methoden sind je nach Region verfügbar.  
 **Pro-Tipp**: Lade die App zuerst auf Android oder iOS herunter für einen **7-Tage-Gratis-Test** (in manchen Regionen ohne Karte). Kombiniere das mit der vollen 30-Tage-Garantie – ExpressVPN komplett risikofrei testen. Kündigung ist easy – keine Fragen, volle Rückerstattung, falls es nicht passt.
 
 **Aktueller Hinweis 2026**: ExpressVPN hat neue Tarifstufen eingeführt (Basic, Advanced, Pro) mit unterschiedlichen Gerätelimits (10–14 gleichzeitige Verbindungen) und Extra-Features wie Passwort-Manager oder ID-Schutz. Für die meisten reicht Basic – super Preis-Leistung!
@@ -433,7 +438,7 @@ Klicke unseren Spezial-Link für den besten Rabatt: [StrongVPN](https://strongvp
 Falls die Seite nicht lädt oder Kauf scheitert (z. B. wegen anderer VPN oder restriktivem Gebiet): Nutze FlowVPNs **großzügigen Gratis-Test** (3–5 Tage) als kurzfristige Alternative.  
 Anmelden hier: [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) (später detaillierte Einrichtung).  
 Verbinde mit UK-Server, dann StrongVPN-Link neu öffnen.  
-Der 1-Jahres-Plan kostet nur ~43–54 $ gesamt (12 Monate; bei Verlängerung: Neue E-Mail + unser Link für frische Rabatte).  
+Der 1-Jahres-Plan liegt oft bei ca. 42–47 EUR/Jahr (48–54 USD/Jahr), also etwa 3,46 EUR/Monat (3,97 USD/Monat), vor MwSt. Prüfe Gesamtbetrag und Verlängerung im Checkout.  
 <img src="./image/strong/s3-1.png" alt="StrongVPN Preise" width="1000"/>
 
 ### Schritt 3: Zahlungsmethode wählen
@@ -477,7 +482,7 @@ Hier klicken: [ExpressVPN Deal](https://go.expressvpn.com/c/3828265/1509266/1606
 | 6 Monate                | $59.95      | $9.99                       |
 | Aktuelles offizielles Angebot | Checkout prüfen | Preis hängt von Land, Steuer, Währung, Laufzeit und Tarifstufe ab |
 
-**Aktuell 2026**: Neue Tarifstufen (Basic, Advanced, Pro) – Basic ab ~$3.49/mo langfristig (inkl. Bonus-Monate).
+**Aktuell 2026**: Neue Tarifstufen (Basic, Advanced, Pro). Wenn ein Angebot 3,49 USD/Monat zeigt, entspricht das ca. 3,04 EUR/Monat; endgültig zählt der Checkout.
 
 ### Schritt 2: Aktuelles offizielles Angebot im Checkout prüfen
 Die offizielle Seite kann je nach Zeitpunkt mehrere Laufzeiten und Tarifstufen anzeigen. Prüfe vor dem Kauf Gesamtbetrag, Währung, Steuer, Verlängerung und Erstattungsfrist.  
@@ -523,7 +528,7 @@ Klicke unseren Spezial-Affiliate-Link: [Surfshark – Unbegrenzte Verbindungen](
 <img src="./image/surfshark/1-1.png" alt="Surfshark Homepage" width="1000"/>
 
 ### Schritt 2: Den 2-Jahres-Super-Deal sichern
-Sofort siehst du den Wahnsinns-Wert: „2 Jahre kaufen“-Plan – oft unter 3 $/Monat (manchmal sogar ~1,99–2,30 $/Monat), inkl. 24 Monate + Extras. (Verlängerungs-Tipp: Neue E-Mail + unser Link für wiederholte Rabatte.)  
+Lange Laufzeiten zeigen oft den niedrigsten Monatspreis. Orientierung: ca. 1,73–2,01 EUR/Monat (1,99–2,30 USD/Monat), aber MwSt., Extras und Verlängerung im Checkout prüfen.  
 <img src="./image/surfshark/2-1.PNG" alt="Surfshark 2-Jahres-Angebot" width="1000"/>
 
 ### Schritt 3: E-Mail eingeben & Zahlung abschließen
@@ -614,7 +619,7 @@ Surfshark setzt auf eine solide No-Logs-Politik, unabhängige Audits und nur min
 
 **Schnelles Urteil (Edition 2026)**:  
 - Maximale bewiesene Privatsphäre? → **ExpressVPN** – am meisten auditiert (23+ Mal), bombensichere Jurisdiktion (BVI).  
-- Bestes Preis-Leistungs-Verhältnis mit solider Privatsphäre? → **Surfshark** – auditiertes No-Logs, unbegrenzte Geräte und Hammer-Preise (oft ~1,99–2,30 $/Monat langfristig), NoBorders-Modus super zuverlässig in schwierigen Netzwerken.  
+- Bestes Preis-Leistungs-Verhältnis mit solider Privatsphäre? → **Surfshark** – auditiertes No-Logs, unbegrenzte Geräte und starke Langzeitpreise (ca. 1,73–2,01 EUR/Monat bzw. 1,99–2,30 USD/Monat als Orientierung), NoBorders-Modus super zuverlässig in schwierigen Netzwerken.  
 - Budget-König mit zuverlässigem No-Logs? → **StrongVPN** – US-Sitz kleiner Minuspunkt, aber zero nützliche Logs = immer noch sicher, und internationale Zahlungen top.  
 
 **FlowVPN** bleibt praktisch zum risikofreien Testen. Prüfe die aktuellen Bedingungen direkt beim Anbieter, bevor du dich für einen längeren Plan entscheidest.
@@ -829,9 +834,9 @@ Surfsharks NoBorders/Camouflage-Modus handhabt die meisten Blocks, aber Drops ko
 
 ### Vor der Verlängerung – ExpressVPN-Preis erneut prüfen
 Verlängerungspreise können von Neukundenangeboten abweichen. Vergleiche vor der Verlängerung den Kontopreis mit dem aktuellen öffentlichen Angebot.  
-**Pro Renewal Hack (funktioniert 2026)**:
+**Renewal-Checkliste 2026**:
 1. Neuer Account mit frischer E-Mail (z. B. yourname+2@gmail.com oder ProtonMail).
-2. Unseren Link nutzen: [ExpressVPN Deal](https://go.expressvpn.com/c/3828265/1509266/16063) für Promo wieder.
+2. Unseren Link nutzen: [ExpressVPN aktuelles Angebot](https://go.expressvpn.com/c/3828265/1509266/16063) und Euro-/USD-Preis, MwSt. und Verlängerung neu prüfen.
 3. Frisch installieren, dann Nutzung übertragen.
 4. Incognito + Cookies löschen vor Signup.
 Gleiches für Surfshark/StrongVPN – neue E-Mails = New-User-Deals jedes Mal. Reddit/Google für Flash-Sales checken.
@@ -981,7 +986,7 @@ Free-VPNs klingen verlockend, kommen aber fast immer mit schweren Nachteilen, di
 
 **Real-World-Beispiele**: Nutzer von Free-VPNs wie Lantern, Hola, Betternet oder SuperVPN berichten von Datenlecks, Account-Übernahmen oder sogar Strafen in strengen Regionen. Ein einziger Breach kostet weit mehr als ein 3–6 $/Monat bezahlter Service.
 
-**Fazit**: Free-VPNs sind das Risiko nicht wert. Investiere in ein Premium – selbst die günstigsten bezahlten (wie Surfshark langfristig ~2 $/Monat) liefern echte Privatsphäre, Speed und Zuverlässigkeit.
+**Fazit**: Free-VPNs sind das Risiko nicht wert. Investiere in ein Premium – selbst günstige bezahlte Langzeitangebote können bei ca. 1,73–2,01 EUR/Monat (1,99–2,30 USD/Monat) liegen, vor MwSt. und Verlängerung, und liefern echte Privatsphäre, Speed und Zuverlässigkeit.
 
 ## Warum es nicht empfehlenswert ist, deinen eigenen VPN zu bauen
 <a name="why-not-build-your-own-vpn"></a>
