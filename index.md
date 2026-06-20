@@ -95,9 +95,9 @@ Vor dem ersten Spiel: VPN installieren, Streaming-App öffnen, DNS/WebRTC prüfe
 
 VPN-Preise ändern sich je nach Land, Steuer, Währung, Laufzeit und Kampagne. Für Deutschland/Österreich nutzen wir Euro plus USD-Gegenwert als Orientierung. Richtkurs: 1 USD ≈ 0,87 EUR (19. Juni 2026).
 
-- StrongVPN Jahresangebot: ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. 42–47 EUR/Jahr (48–54 USD/Jahr), vor MwSt.
+- StrongVPN Jahresangebot: ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. ca. 41,6 EUR/Jahr (47,69 USD/Jahr), vor MwSt.
 - Surfshark lange Laufzeit: ca. 1,73–2,01 EUR/Monat (1,99–2,30 USD/Monat), aber Add-ons, MwSt. und Verlängerung prüfen.
-- ExpressVPN ist Premium und variiert nach Tarif/Kampagne. Wenn der Checkout 3,49 USD/Monat zeigt, entspricht das ca. 3,04 EUR/Monat; der tatsächliche Europreis steht im Checkout.
+- ExpressVPN ist Premium und variiert nach Tarif/Kampagne. Wenn der Checkout 2,49 USD/Monat zeigt, entspricht das ca. 2,17 EUR/Monat; der tatsächliche Europreis steht im Checkout.
 - FlowVPN: Trial und bezahlten Plan im Checkout prüfen; USD-Anzeigen nur als Euro-Orientierung umrechnen.
 
 ## Tagliche VPN-Speedtests
@@ -268,7 +268,7 @@ Mit diesen Kriterien decken unsere vier Hauptoptionen unterschiedliche Profile a
 
 <img src="./image/speed_test/strong_main.png" alt="StrongVPN Speed Test" width="400"/>
 
-**StrongVPN** ist ein aufstrebender VPN-Anbieter mit Servern in Europa und Amerika – zu günstigeren Preisen als viele Premium-Marken. Der 12-Monats-Plan liegt bei Aktionen oft um ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. 42–47 EUR/Jahr (48–54 USD/Jahr) vor MwSt.; Euro-Preis, MwSt. und Gesamtbetrag bitte im Checkout prüfen. StrongVPN unterstützt internationale Zahlungen, und das Engineering-Team aktualisiert Server regelmäßig.
+**StrongVPN** ist ein aufstrebender VPN-Anbieter mit Servern in Europa und Amerika – zu günstigeren Preisen als viele Premium-Marken. Der 12-Monats-Plan liegt bei Aktionen oft um ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. ca. 41,6 EUR/Jahr (47,69 USD/Jahr) vor MwSt.; Euro-Preis, MwSt. und Gesamtbetrag bitte im Checkout prüfen. StrongVPN unterstützt internationale Zahlungen, und das Engineering-Team aktualisiert Server regelmäßig.
 
 Ideal für den Alltag: YouTube streamen, Facebook scrollen oder Netflix, Hulu, ABC, HBO, Sky Go & Co. freischalten. Saubere, native Apps für Windows, macOS, iOS, Android und Amazon Fire TV – plus einfache Einrichtungs-Guides für Chrome, Router, Fire TV Stick und Kodi.
 
@@ -330,7 +330,7 @@ Auf typischen Heimanschlüssen (100–500 Mbps) merkst du den Unterschied zu den
 - Akzeptiert mehrere Währungen, inkl. Bitcoin
 - Branchenführende Verschlüsselung (AES-256-GCM, Lightway-Protokoll – superschnell & sicher)
 
-**Aktueller Preis-Hinweis**: ExpressVPN zeigt je nach Kampagne, Laufzeit und Tarifstufe unterschiedliche Preise. Wenn der Checkout 3,49 USD/Monat zeigt, entspricht das ca. 3,04 EUR/Monat; prüfe vor dem Kauf Euro-Preis, MwSt., Gesamtkosten, Verlängerung und Erstattungsfrist im offiziellen Checkout. Kreditkarten, PayPal, Bitcoin und weitere Methoden sind je nach Region verfügbar.  
+**Aktueller Preis-Hinweis**: ExpressVPN zeigt je nach Kampagne, Laufzeit und Tarifstufe unterschiedliche Preise. Wenn der Checkout 2,49 USD/Monat zeigt, entspricht das ca. 2,17 EUR/Monat; prüfe vor dem Kauf Euro-Preis, MwSt., Gesamtkosten, Verlängerung und Erstattungsfrist im offiziellen Checkout. Kreditkarten, PayPal, Bitcoin und weitere Methoden sind je nach Region verfügbar.  
 **Pro-Tipp**: Lade die App zuerst auf Android oder iOS herunter für einen **7-Tage-Gratis-Test** (in manchen Regionen ohne Karte). Kombiniere das mit der vollen 30-Tage-Garantie – ExpressVPN komplett risikofrei testen. Kündigung ist easy – keine Fragen, volle Rückerstattung, falls es nicht passt.
 
 **Aktueller Hinweis 2026**: ExpressVPN hat neue Tarifstufen eingeführt (Basic, Advanced, Pro) mit unterschiedlichen Gerätelimits (10–14 gleichzeitige Verbindungen) und Extra-Features wie Passwort-Manager oder ID-Schutz. Für die meisten reicht Basic – super Preis-Leistung!
@@ -438,7 +438,7 @@ Klicke unseren Spezial-Link für den besten Rabatt: [StrongVPN](https://strongvp
 Falls die Seite nicht lädt oder Kauf scheitert (z. B. wegen anderer VPN oder restriktivem Gebiet): Nutze FlowVPNs **großzügigen Gratis-Test** (3–5 Tage) als kurzfristige Alternative.  
 Anmelden hier: [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) (später detaillierte Einrichtung).  
 Verbinde mit UK-Server, dann StrongVPN-Link neu öffnen.  
-Der 1-Jahres-Plan liegt oft bei ca. 42–47 EUR/Jahr (48–54 USD/Jahr), also etwa 3,46 EUR/Monat (3,97 USD/Monat), vor MwSt. Prüfe Gesamtbetrag und Verlängerung im Checkout.  
+Der 1-Jahres-Plan liegt oft bei ca. ca. 41,6 EUR/Jahr (47,69 USD/Jahr), also etwa 3,46 EUR/Monat (3,97 USD/Monat), vor MwSt. Prüfe Gesamtbetrag und Verlängerung im Checkout.  
 <img src="./image/strong/s3-1.png" alt="StrongVPN Preise" width="1000"/>
 
 ### Schritt 3: Zahlungsmethode wählen
@@ -482,7 +482,7 @@ Hier klicken: [ExpressVPN Deal](https://go.expressvpn.com/c/3828265/1509266/1606
 | 6 Monate                | $59.95      | $9.99                       |
 | Aktuelles offizielles Angebot | Checkout prüfen | Preis hängt von Land, Steuer, Währung, Laufzeit und Tarifstufe ab |
 
-**Aktuell 2026**: Neue Tarifstufen (Basic, Advanced, Pro). Wenn ein Angebot 3,49 USD/Monat zeigt, entspricht das ca. 3,04 EUR/Monat; endgültig zählt der Checkout.
+**Aktuell 2026**: Neue Tarifstufen (Basic, Advanced, Pro). Wenn ein Angebot 2,49 USD/Monat zeigt, entspricht das ca. 2,17 EUR/Monat; endgültig zählt der Checkout.
 
 ### Schritt 2: Aktuelles offizielles Angebot im Checkout prüfen
 Die offizielle Seite kann je nach Zeitpunkt mehrere Laufzeiten und Tarifstufen anzeigen. Prüfe vor dem Kauf Gesamtbetrag, Währung, Steuer, Verlängerung und Erstattungsfrist.  
