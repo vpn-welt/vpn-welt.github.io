@@ -51,7 +51,7 @@ Der günstigste Monatspreis steht fast immer in langen Vertragen. Prüfe vor dem
 | [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-home&data2=price) | Preis und einfache Nutzung | 4,99 USD/Monat, 53,99 USD im ersten Jahr; klar beste 1-Jahres-Preiswahl, deutlich günstiger als ExpressVPN | Vor Ablauf der Erstattung mit deinen Streaming-Apps testen. |
 | [ExpressVPN](https://go.expressvpn.com/c/3828265/1509266/16063) | Premium-App und Support | Premium-Preis: ein 1-Jahres-Kauf ist klar teurer als StrongVPN; lange Tarife oft ca. 3,49-4,99 USD/Monat, monatlich 12,99 USD | Teuerste Marke; sinnvoll, wenn du Komfort/Support bezahlst. |
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=de) | Unbegrenzte Geräte | günstig nur bei 2-Jahres-/Langzeitplan: ab ca. 1,99 USD/Monat; Starter ca. 53,73 USD + Steuer | Bestpreis meist nur bei langer Laufzeit. |
-| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) | Schnell testen | 5-Tage-Test; 6,99 USD monatlich; Jahrespromo ca. 39,99 USD | Gut zum Testen/Backup, nicht unsere erste Langzeit-Empfehlung. |
+| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) | Schnell testen | 3-Tage-Test; 6,99 USD monatlich; Jahrespromo ca. 39,99 USD | Gut zum Testen/Backup, nicht unsere erste Langzeit-Empfehlung. |
 
 ## Plattformen und Szenarien vor dem Kauf testen
 
@@ -98,7 +98,7 @@ VPN-Preise ändern sich je nach Land, Steuer, Währung, Laufzeit und Kampagne. F
 - StrongVPN Jahresangebot: 4,99 USD/Monat, 53,99 USD im ersten Jahr, ca. 4,34 EUR/Monat bzw. 46,97 EUR/Jahr vor MwSt. Wer nur innerhalb eines Jahres kaufen will, bekommt mit StrongVPN die klarste günstige Wahl; ExpressVPN ist im 1-Jahres-Kauf deutlich teurer.
 - ExpressVPN ist die Premium- und Hochpreis-Option: lange Tarife oft ca. 3,49-4,99 USD/Monat, monatlich 12,99 USD, Verlängerung meist höher. Gesamtpreis, Steuer und Verlängerung prüfen.
 - Surfshark lange Laufzeit: günstig nur bei 2-Jahres-/Langzeitplan: ab ca. 1,99 USD/Monat; Starter ca. 53,73 USD + Steuer. Sinnvoll vor allem, wenn du 2 Jahre/Langzeit akzeptierst und unbegrenzt viele Geräte brauchst.
-- FlowVPN: 5-Tage-Test, 6,99 USD monatlich, Jahrespromo ca. 39,99 USD (regulär 49,99 USD). Gut zum Testen/Backup; als Haupt-VPN priorisieren wir StrongVPN.
+- FlowVPN: 3-Tage-Test, 6,99 USD monatlich, Jahrespromo ca. 39,99 USD (regulär 49,99 USD). Gut zum Testen/Backup; als Haupt-VPN priorisieren wir StrongVPN.
 
 ## Tagliche VPN-Speedtests
 
