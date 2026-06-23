@@ -141,19 +141,20 @@ Fur kurze Tests vielleicht. Fur Streaming, Banking, Arbeit und Reisen eher nicht
 Unterhalb folgen aktuelle VPN-News, Kaufanleitungen, Installationsschritte und detaillierte Provider-Abschnitte.
 
 <!-- NEWS_START -->
-#### Wichtigste Nachrichten am 23. Juni 2026
+#### 22. Juni 2026: VPN-, Datenschutz- und Cybersicherheitsnachrichten
+- **Altersverifikation rückt VPN-Datenschutz wieder in den Fokus**: TechRadar erklärt, warum Nutzer in Märkten wie Großbritannien und Australien bei VPNs auf Audits, No-Logs, Verschlüsselung, Geräteunterstützung und Risiken kostenloser VPNs achten sollten. [Quelle](https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn)
 
-- **Android 16 VPN-Umgehung bestätigt—und es gibt keine Lösung von Google**: Eine neue Schwachstelle in Android 16 ermöglicht die Umgehung von VPNs und es steht noch keine Korrektur von Google zur Verfügung. [Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBXLVB3ekNlcHJ2czlEOG82UHkxcHB4X2VMdWJtaHRfYjQwUmIwQmhxUE5BdG5QODNDTnRYbkwxRjJYWEk0NG52ZERXUjg2Zms2WThLTTR6YVBYZ05yRXVEeTl6dGRza05uYlhtcUt6OHpicWZFanVLdzJ3QXZPNm9Yc2kxM2hfdEtqVVp0eTdMcm40cnZveVFkdWVMaUtmUnlvYzhJcF9BNWJ3aHN5WE1VeVVkUQ?oc=5)
+#### 22. Juni 2026: Telegram-Beschränkungen treiben VPN-Nachfrage in Indien
+- **Telegram-Einschränkungen lösten den größten VPN-Download-Anstieg 2026 in Indien aus**: Economic Times berichtet, dass viele Nutzer nach den Einschränkungen zu VPNs und alternativen Messenger-Apps wechselten. [Quelle](https://m.economictimes.com/news/india/telegram-ban-in-india-triggered-biggest-vpn-download-surge-of-2026/articleshow/131909432.cms)
 
-- **USA vs. Schweiz 2026 Livestream: So sehen Sie die Eishockey-Weltmeisterschaft kostenlos**: Informationen darüber, wie man die Eishockeyspiele der WM 2026 gratis anschauen kann, mit Details zu Streams und Fernsehsendern. [Mashable](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUotbkxtZ3JobEJqUDhzYm1WLUFhRldKT2c3UGtyYm16elRnRy1nT295ekpuTHEtRDgzY1F6U3FPTTdkR3BmbjEwMDdCZnd6UUR4R01jRHR1UklTT2JYajF1UHp2ejVfS1o5RThYUVFUSmRzQ1ZUTS01eTNoWmJUaDUzM09OUExocFZnVmNpWFlWYkh6Tllyb2JCcHpsVzJXQmdv?oc=5)
+#### 22. Juni 2026: VPN-Angebote für mehrere Geräte
+- **Ein Lifetime-VPN-Angebot für 15 Geräte machte Schlagzeilen**: New York Post berichtete über eine FastestVPN-PRO-Aktion; Käufer sollten Preis, Datenschutz, Rückerstattung, Geschwindigkeit und langfristigen Support vergleichen. [Quelle](https://nypost.com/2026/06/22/shopping/lifetime-vpn-deal-protect-15-devices-with-fastestvpn/)
 
-- **Majorer VPN-Anbieter droht mit Rückzug aus Kanada wegen Zugriffsgesetz**: Ein großer VPN-Anbieter erwägt den Rückzug aus Kanada, sollte das neue Gesetz zur rechtmäßigen Zugriffskontrolle in Kraft treten. [Yahoo News Canada](https://news.google.com/rss/articles/CBMiekFVX3lxTE5TcklGQ0xYR0pVazdWTDZ5R0paN0VWMXF0c1A5dHZHckxCWjVNQTdoM0pUQW5FVzdZWnMxVVQ2bnJpOWZSSW5oTkFadjhvRV9jX2hDNV9ycWNNX1NxeVpWc21xaERlMzItTFdZWUI4dHd0aXJiUER3ZHNn?oc=5)
+#### Sicherheitsnotiz der Woche
+- **Ein riesiges Credential-Leak zeigt die Gefahr wiederverwendeter Passwörter**: TechRadar berichtete über eine große offengelegte Datenmenge mit Logins, Passwörtern und Login-URLs. [Quelle](https://www.techradar.com/pro/security/the-credential-data-leak-is-dangerous-simply-because-of-its-enormous-size-experts-warn-colossal-breach-exposes-24-billion-records-including-personal-info)
 
-- **Wie man Team Kanada bei der IIHF 2026 kostenlos von überall aus sehen kann**: Anleitungen zum kostenfreien Streamen der Kanadier-Spiele bei der IIHF 2026 aus aller Welt. [Cybernews](https://news.google.com/rss/articles/CBMilwFBVV95cUxPanEyN2taWjZtZmJybXBiQ1FKWmFJd0lrMmRWT0RQYkhmREpMMjFjTjA1bDdjQUFKeFl1T2o2cFhTWlIwX3liVzFaald2TTc5VGVzRVpTVEtncFFjWmRQRVcxV2hmOWVoMkVsbERpdFpFY3BHODVuNUcya3FKQk5Fcjh4RUpaWHJUWTA3cmxmVHJDOHp4Vklv?oc=5)
-
-- **IIHF WM 2026: Kostenlose Livestreams & TV-Kanäle für Eishockey, Tag 1**: Kostenlose Streaming-Möglichkeiten und TV-Kanal-Informationen für den ersten Tag der IIHF WM 2026. [TechRadar](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXN4SGFOMGs0YWtHZVNpUERjVGpsTFJ2bngxWWtmQi04Rmoydk14Vm5aQlhtSnZESDJoM25BSmtTUUJtbUFmSG1XYXNfWGNFQTlDSG0xdExUdGk0YTE1UVVqZUptNFNRY1RPbFk5TFFLSUQ2b05JQlB0OTMxcmt1MFhDMVRpeFpiTm42NHpQSmJYSElrM3RBSXM0ZlUxTzN4dzdLZDln?oc=5)
-
-- **VPN-Nutzung: Wie man Star Plus außerhalb Indiens streamen kann**: Anleitung zum Streamen von Star Plus-Inhalten mit einem VPN von jedem Ort der Welt. [TechRadar](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DLVJ6UjlxaFJkQ1BfLXAwdlBZcmZMZWJoWlpUU2xWakhGdjhWU1NUQ3N1b0JmNEM1TTdERWIwRWNHVkJUZmt1eE1oVTc5dm9EMkxjR3lFOS1aSVJhRDlNV2pyclZvSzcxaGdVbk5keUE0THBtelE?oc=5)
+#### Datenschutznotiz der Woche
+- **Interne VPN-Tunnel-IPs können unter iOS als Tracking-Signal dienen**: TechRadar fasst Forschung zusammen, nach der interne VPN-IPs App-übergreifendes Tracking erleichtern können. [Quelle](https://www.techradar.com/vpn/vpn-services/security-experts-reveal-proton-is-the-only-vpn-to-avoid-internal-tunnel-ip-fingerprinting-on-ios)
 <!-- NEWS_END -->
 
 
