@@ -104,7 +104,7 @@ Preise geprüft am 2026-06-22. Für Deutschland/Österreich rechnen wir mit 1 US
 
 VPN-Geschwindigkeit hängt von Standort, Tageszeit, Protokoll, Serverlast und deinem eigenen Anschluss ab. Ein einzelner Test ist kaum aussagekräftig. Wir vergleichen deshalb wiederholte Messungen und beobachten 7-, 14-, 30- und 90-Tage-Trends.
 
-<img src="./image/speed_test/vpn_speed_test_combined.png" alt="VPN Speedtest Vergleich" width="1000"/>
+<img src="./image/speed_test/vpn_speed_test_combined.png?v=20260706-speed" alt="VPN Speedtest Vergleich" width="1000"/>
 
 **So wird aus dem Speedtest eine Kaufentscheidung:** Bei einem Kauf innerhalb eines Jahres ist StrongVPN klar günstiger als ExpressVPN. In den Speedtests ist StrongVPN nicht immer der schnellste Anbieter, reicht aber für Alltag, öffentliches WLAN, Reisen und normale Streaming-Tests. Wer für Marke, App-Komfort und Premium-Stabilität mehr Jahresgebühr zahlen will, kann ExpressVPN wählen.  
 Wenn mehrere Personen oder sehr viele Geräte geschützt werden sollen, passt Surfshark besser, aber der niedrige Preis hängt meist an einem 2-Jahres- oder Langzeitplan. FlowVPN eignet sich eher für Studenten, kurze Tests oder sehr knappes Budget, weil es einen 3-Tage-Test gibt; als Haupt-VPN bleibt StrongVPN die bessere Langzeitwahl.
@@ -270,7 +270,7 @@ Mit diesen Kriterien decken unsere vier Hauptoptionen unterschiedliche Profile a
 <a name="strongvpn-recommendation"></a>
 ### 1. [StrongVPN – Bestes Preis-Leistungs-Verhältnis](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-body&data2=title)
 
-<img src="./image/speed_test/strong_main.png" alt="StrongVPN Speed Test" width="400"/>
+<img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="StrongVPN Speed Test" width="400"/>
 
 **StrongVPN** ist ein aufstrebender VPN-Anbieter mit Servern in Europa und Amerika – zu günstigeren Preisen als viele Premium-Marken. Der 12-Monats-Plan liegt bei Aktionen oft um ca. 3,46 EUR/Monat (3,97 USD/Monat), bzw. ca. 41,6 EUR/Jahr (47,69 USD/Jahr) vor MwSt.; Euro-Preis, MwSt. und Gesamtbetrag bitte im Checkout prüfen. StrongVPN unterstützt internationale Zahlungen, und das Engineering-Team aktualisiert Server regelmäßig.
 
@@ -436,7 +436,7 @@ Einer der größten Vorteile von **StrongVPN**: Volle Unterstützung internation
 
 ### Schritt 1: Unser exklusives Angebot nutzen
 Klicke unseren Spezial-Link für den besten Rabatt: [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-body&data2=title) → „Jetzt starten“ klicken (Screenshot unten).  
-<img src="./image/speed_test/strong_main.png" alt="StrongVPN Homepage" width="1000"/>
+<img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="StrongVPN Homepage" width="1000"/>
 
 ### Schritt 2: Bei Verbindungs-/Kaufproblemen beheben
 Falls die Seite nicht lädt oder Kauf scheitert (z. B. wegen anderer VPN oder restriktivem Gebiet): Nutze FlowVPNs **kurzen 1-2 Tage Gratis-Test** (1-2 Tage) als kurzfristige Alternative.  
@@ -1412,7 +1412,7 @@ Wichtige Highlights:
 
 Wähle nach deinem Standort – diese Raten sind Durchschnitte aus täglichen Tests der letzten 7–30 Tage.
 
-<img src="./image/speed_test/vpn_connection_netflix.png" alt="Netflix-Verbindungs-Erfolgsraten nach Kontinent" width="1000"/>
+<img src="./image/speed_test/vpn_connection_netflix.png?v=20260706-speed" alt="Netflix-Verbindungs-Erfolgsraten nach Kontinent" width="1000"/>
 
 #### Disney+-Verbindungs-Erfolgsraten nach Kontinent
 <a name="disney-plus-connection-success-rates-by-continent"></a>
@@ -1426,7 +1426,7 @@ Highlights:
 
 Wähle deinen VPN nach primärer Region und Streaming-Prioritäten.
 
-<img src="./image/speed_test/vpn_connection_disney.png" alt="Disney+-Verbindungs-Erfolgsraten nach Kontinent" width="1000"/>
+<img src="./image/speed_test/vpn_connection_disney.png?v=20260706-speed" alt="Disney+-Verbindungs-Erfolgsraten nach Kontinent" width="1000"/>
 
 <a name="guide-to-streaming-with-vpn"></a>
 ## Schritt-für-Schritt-Guide: Globales Streaming mit VPN genießen
@@ -1443,7 +1443,7 @@ Wir fokussieren auf bewährte Performer, die Netflix, Disney+, Hulu, BBC iPlayer
 - **[StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-body&data2=title)**: Geliebt für felsstabile Performance und Einfachheit. 950+ Server in 70+ Regionen – perfekt für jeden Ort, super Value und starke internationale Zahlungsunterstützung.
 - **[ExpressVPN](https://go.expressvpn.com/c/3828265/1509266/16063)**: Der „Speed-König“ – 3.000+ Server in 94 Ländern, blitzschnelles Lightway-Protokoll und unschlagbare Konsistenz für 4K-Streaming ohne Buffering.
 
-![StrongVPN Übersicht](./image/speed_test/strong_main.png)  
+![StrongVPN Übersicht](./image/speed_test/strong_main.png?v=20260706-speed)  
 ![ExpressVPN Übersicht](./image/exp/1-1.PNG)
 
 ### Schritt 2: VPN installieren & einrichten
