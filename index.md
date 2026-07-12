@@ -67,6 +67,12 @@ In Deutschland geht es selten nur um “irgendein VPN”. Entscheidend sind Medi
 | Haushalt mit vielen Geräten | Handy, Laptop, Tablet, Fire TV, Smart TV | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=de) |
 | Kurzer Kompatibilitätstest | eigenes Netz, eigenes Gerät, eigener Anbieter | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) |
 
+## Streaming-Schnellentscheidung
+
+Wenn dein Hauptproblem **Netflix, Disney+, DAZN, WOW, Joyn oder Mediatheken** ist, kaufe nicht nur nach einer allgemeinen Bestenliste. Entscheide zuerst, ob du den niedrigeren Jahrespreis, Premium-Komfort, viele Geräte oder einen kurzen Test brauchst.
+
+Für einen preisbewussten Streaming-Test ist [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=streaming&data2=disney_value) der sinnvollste Startpunkt: günstiger als ein Premium-Erstkauf, einfach genug für Alltag, Reisen und öffentliches WLAN, und gut zum Testen während der Erstattungsfrist. ExpressVPN passt besser, wenn App-Komfort und Support wichtiger sind als der Preis. Surfshark ist die Haushaltswahl mit vielen Geräten. FlowVPN ist der kurze Kompatibilitätstest.
+
 ### Testplan während der Erstattungsfrist
 
 1. Teste zuhause, per Mobilfunk und in einem öffentlichen WLAN.
