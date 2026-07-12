@@ -36,6 +36,8 @@ Kaufe nicht nur nach einer Rangliste. Wenn du den Jahrespreis niedrig halten wil
 
 Wenn dieser Test funktioniert, musst du nicht sofort die Premium-Route bezahlen. ExpressVPN ist sinnvoll, wenn App-Komfort und Support wichtiger sind als der Preis; Surfshark passt bei vielen Geräten im Haushalt; FlowVPN ist der kurze Kompatibilitätstest vor einem längeren Abo.
 
+<img src="./image/speed_test/vpn_streaming_buyer_dashboard.png?v=20260712-dashboard" alt="30-Minuten VPN-Kauftest Dashboard" width="1000"/>
+
 ## Die wichtigsten deutschen VPN-Suchintentionen
 
 ### 1. Streaming und Mediatheken auf Reisen
