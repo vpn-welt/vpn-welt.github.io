@@ -89,26 +89,6 @@ Für einen preisbewussten Streaming-Test ist [StrongVPN](https://strongvpn.com/d
 4. Prüfe 15-30 Minuten Wiedergabe, nicht nur den Login.
 5. Wenn der Hauptzweck scheitert, innerhalb der Frist erstatten lassen.
 
-## WM 2026: VPN für Reisen, Streaming und ExpressVPN Ticket-Gewinnspiel
-
-![Fußballstadion bei Nacht](./image/worldcup/world-cup-2026-stadium.png)
-
-*Illustration created for this site.*
-
-Die FIFA World Cup 2026 läuft vom 11. Juni bis 19. Juli in den USA, Kanada und Mexiko. Für deutsche Fans geht es nicht nur um Streaming, sondern auch um Reisen, Hotel-WLAN, Flughafen-WLAN, Ticketkonten, Banking, E-Mail und öffentliche Netzwerke.
-
-Für die meisten Leser ist der praktischere erste Klick weiterhin [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-home&data2=worldcup_intro): preisbewusster VPN-Schutz für Reisen, öffentliches WLAN, Alltag und Streaming-Tests vor dem Spiel.
-
-ExpressVPN teilt mit, Official Supporter der FIFA World Cup 2026 zu sein und ein Gewinnspiel mit 25 Ticketpaaren durchzuführen, darunter K.-o.-Spiele und ein Paar für das Finale. Das Gewinnspiel wird von ExpressVPN betrieben; Bedingungen, Verfügbarkeit und Teilnahmeberechtigung bitte auf der offiziellen Seite prüfen.
-
-| WM-Szenario | Erster Klick | Warum |
-|---|---|---|
-| Preisbewusster VPN-Schutz auf Reisen | [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-home&data2=worldcup_block) | Gute Option für öffentliches WLAN und Alltag |
-| Offizielle Kampagne und Ticket-Gewinnspiel | [ExpressVPN WM 2026 Angebot](https://go.expressvpn.com/c/3828265/1481161/16063) | Passt am besten zum Official-Supporter-Hook |
-| Viele Geräte im Haushalt | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=de) | Sinnvoll für Handy, Laptop, Tablet und TV |
-
-Vor dem ersten Spiel: VPN installieren, Streaming-App öffnen, DNS/WebRTC prüfen, Server wechseln, wenn ein Regionsfehler erscheint, und 15-30 Minuten testen.
-
 ## Deutschland: Sport, Mediatheken und Preisfallen
 
 Im deutschsprachigen Markt geht es selten nur um eine abstrakte Rangliste. Die wichtigsten Fragen sind: Funktionieren Mediatheken und Sport-Apps im Ausland, ist der Preis nach Steuern und Verlängerung noch fair, und läuft die App auf den Geräten im Haushalt?
@@ -117,7 +97,6 @@ Im deutschsprachigen Markt geht es selten nur um eine abstrakte Rangliste. Die w
 |---|---|---|
 | ARD, ZDF, Joyn, RTL+, MagentaTV oder andere Mediatheken im Ausland | Login, Regionsfehler, 1080p/4K, Untertitel, Serverwechsel | [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-home&data2=de_streaming_table) für Preis/Leistung; [ExpressVPN](https://go.expressvpn.com/c/3828265/1509266/16063) für Premium-Komfort |
 | DAZN, WOW/Sky, RTL+ Sport oder internationale Streams | 15-30 Minuten Wiedergabe, Latenz, Stoßzeiten und App-Stabilität | ExpressVPN wenn Stabilität wichtiger ist; StrongVPN wenn der Jahrespreis wichtiger ist |
-| WM 2026 im Haushalt mit mehreren Geräten | Handy, Laptop, Tablet, Fire TV, Smart TV und parallele Nutzung | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=de_worldcup_devices) |
 | Du willst keinen langen Vertrag riskieren | 24-72 Stunden im eigenen WLAN, Mobilfunk und mit der wichtigsten App testen | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) als kurzer Test, danach Haupt-VPN wählen |
 
 Wichtig: Der billigste Monatswert ist oft nur ein 2-Jahres-Preis. Prüfe immer Gesamtkosten, Steuer, Verlängerung und Erstattungsfrist. Für einen klaren 1-Jahres-Kauf bleibt StrongVPN die einfache Preiswahl; ExpressVPN ist die teurere Premium-Route.
