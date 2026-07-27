@@ -100,6 +100,16 @@ Im deutschsprachigen Markt geht es selten nur um eine abstrakte Rangliste. Die w
 | Du willst keinen langen Vertrag riskieren | 24-72 Stunden im eigenen WLAN, Mobilfunk und mit der wichtigsten App testen | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) als kurzer Test, danach Haupt-VPN wählen |
 
 Wichtig: Der billigste Monatswert ist oft nur ein 2-Jahres-Preis. Prüfe immer Gesamtkosten, Steuer, Verlängerung und Erstattungsfrist. Für einen klaren 1-Jahres-Kauf bleibt StrongVPN die einfache Preiswahl; ExpressVPN ist die teurere Premium-Route.
+## Nach der WM: Reisen, öffentliches WLAN und Sport-Streaming
+
+![Fußballstadion bei Nacht](./image/worldcup/world-cup-2026-stadium.png)
+
+*Illustration created for this site.*
+
+Die WM ist vorbei, aber der praktische VPN-Bedarf bleibt: Reisen, Hotel-WLAN, Flughafen-WLAN, Sport-Streams, Wiederholungen, E-Mail, Banking und Konten in fremden Netzwerken. Eine Ticket-Aktion kann enden; der Bedarf an einem bezahlbaren VPN-Test auf dem eigenen Gerät bleibt.
+
+Für die meisten Leser ist der praktischere erste Klick weiterhin [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-home&data2=worldcup_block): preisbewusster VPN-Schutz für Reisen, öffentliches WLAN, Alltag und Streaming-Tests. ExpressVPN passt besser für Premium-Komfort, Surfshark für viele Geräte und FlowVPN für einen kurzen Kompatibilitätstest.
+
 ## Hinweis zu Preisen und lokaler Währung
 
 Preise geprüft am 2026-06-22. Für Deutschland/Österreich rechnen wir mit 1 USD ≈ 0,87 EUR.
