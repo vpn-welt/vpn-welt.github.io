@@ -19,6 +19,14 @@ Diese Seite ist für Nutzer, die:
 
 Streaming-Anbieter blockieren regelmäßig VPN-IP-Adressen. Deshalb bewerten wir nicht nur Maximalgeschwindigkeit, sondern auch Server-Auswahl, App-Qualität, Support, Geld-zurück-Garantie und die Möglichkeit, schnell den Standort zu wechseln.
 
+## Unser eigener Maßstab: Ein gutes VPN muss Fehler sichtbar machen
+
+Viele Bestenlisten behandeln Datenschutz wie ein Abzeichen: „No Logs“, starke Verschlüsselung und eine große Serverzahl reichen für eine hohe Platzierung. Für den Alltag in Deutschland, Österreich und der Schweiz ist entscheidender, was passiert, wenn das Netz wechselt oder die Verbindung abbricht. Bleibt der Datenverkehr wirklich stehen? Verbindet sich die App im Hotel-WLAN automatisch neu? Werden DNS und IPv6 weiterhin sauber behandelt? Ist der Verlängerungspreis verständlich?
+
+Darum ist für uns nicht automatisch das schnellste VPN das beste. Wir bevorzugen eine App, deren Ausfall erkennbar und kontrollierbar ist, gegenüber einer App, die im Hintergrund unbemerkt auf die normale Verbindung zurückfällt. Beim Streaming gilt dasselbe: ARD, ZDF, RTL+, Joyn, Waipu.tv oder Zattoo müssen auf dem echten Gerät getestet werden, nicht nur in einer allgemeinen Ländertabelle.
+
+**Unsere Regel:** Preis und Tempo zählen erst, nachdem Kill Switch, Netzwechsel, lokale Mediathek und Erstattung im persönlichen Test bestanden wurden.
+
 ## Kurzempfehlung nach Bedarf
 
 | Bedarf | Empfehlung | Warum |
