@@ -27,6 +27,16 @@ Darum ist für uns nicht automatisch das schnellste VPN das beste. Wir bevorzuge
 
 **Unsere Regel:** Preis und Tempo zählen erst, nachdem Kill Switch, Netzwechsel, lokale Mediathek und Erstattung im persönlichen Test bestanden wurden.
 
+## Der 5-Minuten-Netzwechsel-Test
+
+1. VPN verbinden und die angezeigte IP prüfen.
+2. WLAN ausschalten und auf Mobilfunk wechseln.
+3. Beobachten, ob der Datenverkehr bis zur neuen VPN-Verbindung stoppt.
+4. WLAN wieder einschalten und DNS/IP erneut prüfen.
+5. Danach ARD, ZDF, RTL+, Joyn, Waipu.tv oder Zattoo auf dem Hauptgerät öffnen.
+
+Besteht StrongVPN diesen Test, ist der niedrigere Jahrespreis ein echtes Argument. ExpressVPN folgt, wenn App-Komfort und Support wichtiger sind; Surfshark passt für viele Geräte, FlowVPN für einen kurzen Kompatibilitätstest.
+
 ## Kurzempfehlung nach Bedarf
 
 | Bedarf | Empfehlung | Warum |
@@ -445,19 +455,19 @@ FlowVPN liefert wettbewerbsfähige Geschwindigkeiten und Stabilität – oft auf
 - Spezielle Rabatte für Studenten & Lehrkräfte
 
 
-### Datenschutzrichtlinien-Analyse & Vergleich der Top-VPN-Anbieter
+### Datenschutz-Kurzcheck vor dem Kauf
 <a name="privacy-policy-comparison-vpn-providers"></a>
 
 Beim VPN-Kauf ist die **Datenschutzrichtlinie** einer der wichtigsten Faktoren, um deine Daten und echte Identität zu schützen. Hier ein klarer Side-by-Side-Vergleich von ExpressVPN, StrongVPN und Surfshark – den drei am häufigsten empfohlenen in diesem Guide (Stand Januar 2026).
 
 #### ExpressVPN
-Sitz in den Britischen Jungferninseln (privacy-freundliche Jurisdiktion ohne verpflichtende Datenspeicherung). ExpressVPN hat eine der strengsten **No-Logs**-Richtlinien der Branche – mehrmals unabhängig auditiert (u. a. KPMG 2026), bestätigt: Keine Aufzeichnung von Browsing-Aktivitäten, Verbindungs-Zeitstempeln, IP-Adressen oder DNS-Anfragen.
+Sitz in den Britischen Jungferninseln (privacy-freundliche Jurisdiktion ohne verpflichtende Datenspeicherung). ExpressVPN hat eine der strengsten **No-Logs**-Richtlinien der Branche – mehrmals unabhängig auditiert (u. a. KPMG 2025), bestätigt: Keine Aufzeichnung von Browsing-Aktivitäten, Verbindungs-Zeitstempeln, IP-Adressen oder DNS-Anfragen.
 
 #### StrongVPN
 Sitz in den USA. Starke **No-Logs**-Zusage für Nutzeraktivitäten und Traffic. USA-Jurisdiktion (5/9/14-Eyes-Allianz) kann Bedenken wecken (mögliche Datenanfragen), aber StrongVPN speichert keine identifizierbaren Logs und kooperiert nur bei gültigen Gerichtsbescheiden (in der Praxis bisher kein Problem für Nutzer). Keine unabhängige Audit-Bestätigung (Stand 2026).
 
 #### Surfshark
-Wie ExpressVPN in den Britischen Jungferninseln ansässig – strenge **No-Logs**-Policy, mehrmals unabhängig auditiert (Deloitte 2023 & 2026). Nur minimale Account-Infos (E-Mail, Zahlungsdaten) – keine Aktivitäts-, IP- oder Browsing-Logs. Keine Weitergabe an Dritte außer bei Gerichtsbeschluss.
+In den Niederlanden ansässig – strenge **No-Logs**-Policy, mehrmals unabhängig auditiert (Deloitte 2023 & 2025). Nur minimale Account-Infos (E-Mail, Zahlungsdaten) – keine Aktivitäts-, IP- oder Browsing-Logs. Keine Weitergabe an Dritte außer bei Gerichtsbeschluss.
 
 | Feature                          | ExpressVPN                     | StrongVPN                  | Surfshark                      |
 |----------------------------------|--------------------------------|----------------------------|--------------------------------|
@@ -516,7 +526,7 @@ Fertig – verschlüsselt, privat und frei surfen, streamen oder gamen auf dem H
 **Hinweis**: ExpressVPN bietet nicht überall direkte internationale Zahlungsgateways, akzeptiert aber die meisten ausländischen Kredit-/Debitkarten (Visa/MasterCard), PayPal und sogar Bitcoin. Bei Zugriffsproblemen: Zuerst StrongVPN oder FlowVPN nutzen für stabile Verbindung.  
 Pro-Tipp: Immer unseren Link für die frischesten Rabatte & Boni verwenden.
 
-### Schritt 1: Zum exklusiven Angebot springen
+### Schritt 1: ExpressVPN-Angebot öffnen
 Hier klicken: [ExpressVPN Deal](https://go.expressvpn.com/c/3828265/1509266/16063) → „ExpressVPN holen“ (hervorgehobener Button im Screenshot).  
 <img src="./image/exp/1-1.PNG" alt="ExpressVPN Homepage" width="1000"/>
 
@@ -567,7 +577,7 @@ Damit sind die wichtigsten VPN-Optionen, Angebote und Einrichtungsschritte abged
 <a name="surfshark-purchase-tutorial"></a>
 ## Surfshark – Schneller Kauf-Guide (Unbegrenzte Geräte-Deal)
 
-### Schritt 1: Zum exklusiven Angebot springen
+### Schritt 1: Surfshark-Langzeitangebot öffnen
 Klicke unseren Spezial-Affiliate-Link: [Surfshark – Unbegrenzte Verbindungen](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=de) → „Surfshark holen“ klicken (Button im Screenshot unten).  
 <img src="./image/surfshark/1-1.png" alt="Surfshark Homepage" width="1000"/>
 
@@ -632,7 +642,7 @@ In hochrestriktiven oder „sensiblen“ Phasen (z. B. politische Ereignisse, gr
 
 Teste deinen Anbieter mit den Diensten, die du wirklich nutzt, und entscheide nach realer Geschwindigkeit, App-Qualität und Support.
 
-### Datenschutzrichtlinien-Analyse & Vergleich der Top-VPN-Anbieter
+### Datenschutz-Nachweise und Grenzen
 <a name="privacy-policy-comparison-vpn-providers"></a>
 
 Beim VPN-Auswahl ist die **Datenschutzrichtlinie** das Wichtigste, um deine echte Identität, Surf-History und Daten vor neugierigen Blicken (ISPs, Behörden, Hackern) zu schützen. Hier ein ehrlicher, aktueller Vergleich (Stand Januar 2026) der drei Powerhouses, die wir empfehlen: **ExpressVPN**, **StrongVPN** und **Surfshark**. Alle haben strenge No-Logs-Policies, aber Jurisdiktion, Audits und Transparenz machen den Unterschied.
@@ -640,22 +650,22 @@ Beim VPN-Auswahl ist die **Datenschutzrichtlinie** das Wichtigste, um deine echt
 
 #### ExpressVPN
 Headquartered in the **British Virgin Islands** (zero mandatory data retention laws, outside Five/Nine/Fourteen Eyes alliances).  
-ExpressVPN has the **gold standard** no-logs policy — independently audited **23 times** total, with the latest KPMG audit (3rd by them) in 2026 confirming their TrustedServer RAM-only tech prevents any logging of activity, IP addresses, browsing history, DNS queries, or connection timestamps. Audits are public, and they publish transparency reports. If privacy is non-negotiable, this is the benchmark.
+ExpressVPN has the **gold standard** no-logs policy — independently audited **23 times** total, with a third KPMG assessment published in 2025 confirming their TrustedServer RAM-only tech prevents any logging of activity, IP addresses, browsing history, DNS queries, or connection timestamps. Audits are public, and they publish transparency reports. If privacy is non-negotiable, this is the benchmark.
 
 #### StrongVPN
 Based in the **United States** (part of Five Eyes alliance, potential for legal data demands).  
 StrongVPN enforces a clear **zero-logging** policy — they do not track or store traffic, IPs, browsing activity, or connection logs while you're connected. Only basic account info (email, billing) is kept. No third-party audits mentioned recently, but their policy is transparent and they've stood by it for years. US jurisdiction is the main drawback for ultra-privacy users, but since they log nothing useful, real-world risk is low.
 
 #### Surfshark
-Also in the **British Virgin Islands** (privacy-friendly, no retention laws).  
+Based in the **Netherlands**, where Surfshark says EU GDPR applies.
 Surfshark setzt auf eine solide No-Logs-Politik, unabhängige Audits und nur minimale Kontodaten wie E-Mail und Abrechnung. Das macht den Anbieter besonders interessant, wenn viele Geräte und ein günstiger Langzeitpreis wichtig sind.
 
 | Feature                          | ExpressVPN                              | StrongVPN                           | Surfshark                               |
 |----------------------------------|-----------------------------------------|-------------------------------------|-----------------------------------------|
-| Jurisdiction                     | British Virgin Islands                  | United States                       | British Virgin Islands                  |
+| Jurisdiction                     | British Virgin Islands                  | United States                       | Netherlands                             |
 | Logs Browsing/Activity/IP        | No (strict no-logs, 23+ audits)         | No (strict no-logs)                 | No (strict no-logs, multiple audits)    |
 | Shares Data with Third Parties   | No, except valid legal order            | No, except valid legal order        | No, except valid legal order            |
-| Independent Audits (Recent)      | Yes (KPMG 2026, ongoing)                | No public recent audits             | Yes (Deloitte 2026)                     |
+| Independent evidence checked     | KPMG 2025                               | Check current public evidence      | Deloitte 2025                           |
 | Transparency Reports             | Yes (regular)                           | No                                  | Yes (quarterly)                         |
 
 
