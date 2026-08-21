@@ -27,6 +27,18 @@ Darum ist für uns nicht automatisch das schnellste VPN das beste. Wir bevorzuge
 
 **Unsere Regel:** Preis und Tempo zählen erst, nachdem Kill Switch, Netzwechsel, lokale Mediathek und Erstattung im persönlichen Test bestanden wurden.
 
+## Drei Belegstufen statt eines Testsieger-Siegels
+
+Eine gemessene Geschwindigkeit, eine Tarifangabe und eine funktionierende Mediathek sind drei verschiedene Aussagen. Wir trennen sie, damit aus einem guten Diagramm kein pauschales Streaming-Versprechen wird.
+
+| Belegstufe | Was hier geprüft wird | Richtige Verwendung |
+|---|---|---|
+| Von diesem Projekt gemessen | Datierte Speedtest-Grafik und wiederholter Vergleich der vier Anbieter | Zeigt die aktuelle relative Leistung, nicht automatisch die Geschwindigkeit an deinem Anschluss. |
+| Im Checkout bestätigt | Gesamtpreis, Laufzeit, Steuer, Verlängerung, Erstattung und Zahlungsart | Vor dem Kauf in EUR prüfen; der kleinste Monatspreis kann eine lange Vorauszahlung voraussetzen. |
+| Im eigenen Alltag getestet | FritzBox oder Endgerät, Hotel-WLAN, Netzwechsel, ARD, ZDF, RTL+, Joyn, Waipu.tv oder Zattoo | Auf dem Hauptgerät testen und erst behalten, wenn Verbindung, Kill Switch und gewünschter Dienst bestehen. |
+
+Der Unterschied zu vielen Bestenlisten ist damit klar: Wir bewerten nicht nur den Idealfall, sondern auch, ob ein Fehler erkennbar ist und ohne unnötige Vertragskosten behoben werden kann.
+
 ## Der 5-Minuten-Netzwechsel-Test
 
 1. VPN verbinden und die angezeigte IP prüfen.
