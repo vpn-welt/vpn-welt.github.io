@@ -190,6 +190,14 @@ Unterhalb folgen aktuelle VPN-News, Kaufanleitungen, Installationsschritte und d
 <!-- NEWS_END -->
 
 
+## Praxisleitfaden für deutsches Fernsehen im Ausland
+
+Wer ARD, ZDF, Joyn oder RTL+ im Ausland öffnet, braucht mehr als einen allgemeinen VPN-Test. App-Store-Region, Cookies, deutscher Serverstandort und das verwendete Gerät können das Ergebnis verändern.
+
+- **Schritt-für-Schritt:** [Deutsche Mediatheken im Ausland: ARD, ZDF, Joyn und RTL+ mit VPN testen](./deutsche-mediatheken-ausland/)
+
+Der Leitfaden verspricht keine dauerhafte Freischaltung. Er zeigt einen reproduzierbaren Test während der Erstattungsfrist und behält dieselbe Reihenfolge bei: StrongVPN, ExpressVPN, Surfshark, FlowVPN.
+
 ## Inhaltsverzeichnis
 
 ### 1. [VPN-Grundlagen](#basics-of-unrestricted-access)
