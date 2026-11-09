@@ -48,6 +48,8 @@ Für die Umrechnung verwenden wir 1 USD ≈ 0,86 EUR. Steuer, Wechselkurs und Ak
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=de) | Starter-Langzeitangebot ca. 53,73 USD (46,21 EUR) plus Steuer; Verlängerung ca. 79 USD/Jahr (67,94 EUR) | Stark pro Gerät, wenn unbegrenzte Verbindungen und lange Laufzeit wirklich passen |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=de&special=FREETRIAL&r=35-890485.w_github_de) | Drei-Tage-Test; 6,99 USD monatlich; Jahrespromo ca. 39,99 USD, regulär 49,99 USD | Kurzer Test oder Backup; Bedingungen nach dem Test vorher lesen |
 
+**StrongVPN-Zahlungsupdate (9. November 2026):** Alipay ist im Checkout nicht mehr verfügbar. Wer Alipay nutzen wollte, sollte stattdessen eine UnionPay-Kredit-/Debitkarte oder PayPal wählen; weitere Optionen sind im aktuellen Checkout zu prüfen.
+
 ## Wiederholte Geschwindigkeitsmessung
 
 Ein einzelner Spitzenwert ist kein Qualitätsbeweis. Standort, Tageszeit, Protokoll, Serverlast und eigener Anschluss verändern das Ergebnis. Das Diagramm zeigt die relative Entwicklung der vier Anbieter unter demselben Projekt.
@@ -243,7 +245,7 @@ Auf typischen Heimanschlüssen (100–500 Mbps) merkst du den Unterschied zu den
 | Anzahl Server                    | 950+                               |
 | Anzahl Länder                    | 35+                                |
 | Gerichtsbarkeit / Sitz           | USA                                |
-| Zahlungsmethoden                 | Kreditkarten, PayPal, internationale Optionen |
+| Zahlungsmethoden                 | UnionPay-Kredit-/Debitkarten, PayPal; kein Alipay |
 | ID / Verifizierung nötig?        | Nein                               |
 | Verschlüsselungsprotokolle       | WireGuard, OpenVPN, IKEv2, L2TP, SSTP |
 | Daten / Bandbreite               | Unbegrenzt                         |
@@ -362,7 +364,7 @@ In den Niederlanden ansässig – strenge **No-Logs**-Policy, mehrmals unabhäng
 <a name="strongvpn-international-payment-tutorial"></a>
 ## StrongVPN – Schritt-für-Schritt mit internationalen Zahlungen
 
-Einer der größten Vorteile von **StrongVPN**: Volle Unterstützung internationaler Zahlungen – perfekt für ausländische Karten, PayPal aus anderem Land oder flexible Optionen. (FlowVPN ist eine gute Alternative bei ähnlicher Flexibilität.)
+**Zahlungsupdate (9. November 2026):** StrongVPN bietet Alipay nicht mehr an. Wer Alipay nutzen wollte, sollte stattdessen eine UnionPay-Kredit-/Debitkarte oder PayPal verwenden. Weitere Methoden können variieren; maßgeblich ist der aktuelle Checkout.
 
 ### Schritt 1: Unser exklusives Angebot nutzen
 Klicke unseren Spezial-Link für den besten Rabatt: [StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-body&data2=title) → „Jetzt starten“ klicken (Screenshot unten).  
@@ -376,8 +378,7 @@ Die offizielle Seite zeigt für den 1-Jahres-Plan 3,97 USD pro Monat (ca. 3,41 E
 <img src="./image/strong/s3-1.png" alt="StrongVPN Preise" width="1000"/>
 
 ### Schritt 3: Zahlungsmethode wählen
-Nach unten scrollen zum Zahlungsbereich. Internationale Optionen auswählen – die meisten ausländischen Kredit-/Debitkarten (Visa, MasterCard), PayPal & mehr werden akzeptiert.  
-<img src="./image/strong/s4-1.PNG" alt="StrongVPN Zahlungsmethoden" width="1000"/>
+Zum Zahlungsbereich scrollen. Alipay ist nicht mehr verfügbar; stattdessen eine UnionPay-Kredit-/Debitkarte oder PayPal wählen und die Option vor dem Bezahlen prüfen.
 
 ### Schritt-für-Schritt: StrongVPN auf Mobilgeräten einrichten (Android & iOS)
 
@@ -1340,7 +1341,7 @@ Hier dein einfacher Guide, um Barrieren zu brechen und weltweite Unterhaltung mi
 ### Schritt 1: Den richtigen VPN für Streaming wählen
 Wir fokussieren auf bewährte Performer, die Netflix, Disney+, Hulu, BBC iPlayer & mehr konstant entsperren.
 
-- **[StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-body&data2=title)**: Geliebt für felsstabile Performance und Einfachheit. 950+ Server in 70+ Regionen – perfekt für jeden Ort, super Value und starke internationale Zahlungsunterstützung.
+- **[StrongVPN](https://strongvpn.com/de/?tr_aid=60d96b5810e50&chan=w_github_de&data1=de-body&data2=title)**: Preisbewusste Wahl mit einfachen Apps und solider Alltagsleistung. UnionPay-Kredit-/Debitkarten und PayPal bleiben Alternativen, nachdem Alipay weggefallen ist.
 - **[ExpressVPN](https://go.expressvpn.com/c/3828265/1509266/16063)**: Der „Speed-König“ – 3.000+ Server in 94 Ländern, blitzschnelles Lightway-Protokoll und unschlagbare Konsistenz für 4K-Streaming ohne Buffering.
 
 ![StrongVPN Übersicht](./image/speed_test/strong_main.png?v=20260706-speed)  
